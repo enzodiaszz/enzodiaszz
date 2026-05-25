@@ -21,7 +21,6 @@ Stack: Node.js · Express · PostgreSQL · Prisma · Docker
 
 - SQL avançado (JOINs, subconsultas)
 - Algoritmos e estruturas de dados
-- Segurança em aplicações web (OWASP Top 10)
 
 ##  Contato
 
