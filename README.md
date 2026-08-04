@@ -19,8 +19,8 @@ Stack: Node.js · Express · PostgreSQL · Prisma · Docker
 
 ##  Atualmente estudando
 
-- SQL avançado (JOINs, subconsultas)
 - Algoritmos e estruturas de dados
+- Linguagem C
 
 ##  Contato
 
