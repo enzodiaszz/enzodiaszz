@@ -1,6 +1,6 @@
 # Enzo Dias
 
-Estudante de Ciência da Computação na UFMG, com foco em desenvolvimento backend e interesse em cibersegurança.
+Estudante de Computação na UFMG
 
 ##  Tecnologias
 
